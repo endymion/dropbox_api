@@ -75,7 +75,7 @@ API call | Status
 `/list_folders/continue` | 🌑
 `/list_mountable_folders` | 🌑
 `/list_mountable_folders/continue` | 🌑
-`/list_received_files` | 🌑
+`/list_received_files` | 🌕
 `/list_received_files/continue` | 🌑
 `/list_shared_links` | 🌕
 `/modify_shared_link_settings` | 🌑
